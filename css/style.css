@@ -90,3 +90,17 @@ footer p {
 .redes-sociais {
     margin: 0 auto;
 }
+
+@media (max-width: 600px) {
+    h2 {
+        padding: 5%;
+    }
+
+    p {
+        max-width: 90% !important;
+    }
+
+    form textarea {
+        max-width: 80% !important;
+    }
+}
