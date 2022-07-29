@@ -9,6 +9,16 @@ Nesse projeto eu comecei a implementar os seguintes conceitos:
 
 Para visualização do projeto, pode-se conferir no link do GitHub Pages: https://lgbarros.github.io/contador-caracteres/
 
+##Legenda
+
+Caracteres: O contador identifica como um caracter sempre que houver o uso de alguma tecla do seu teclado. Exemplo: Enter, Space, Tab e etc;
+
+Palavras: O contador identifica uma palavra sempre que houver o uso da tecla Espaço entre as palavras;
+
+Linhas: O contador interpretra como linha sempre que houver o uso da tecla Enter.
+
+Espaços: O contador interpretra como espaço sempre que houver o uso da tecla Barra de Espaço/Space.
+
 #
 # Character Counter - EN
 
@@ -20,3 +30,13 @@ In this project I started to implement the following concepts:
 - Creation of the counter made with JavaScript and jQuery.
 
 To view the project, you can check the GitHub Pages link: https://lgbarros.github.io/contador-caracteres/
+
+##Subtitle
+
+Characters: The counter is identified as a character whenever a key on your keyboard is used. Example: Enter, Space, Tab and etc;
+
+Words: The counter identifies a word whenever the Space key is used between words;
+
+Lines: The counter interprets as a line whenever the Enter key is used.
+
+Spaces: The counter interprets as space whenever the Spacebar/Space key is used.
