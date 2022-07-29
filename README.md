@@ -9,7 +9,7 @@ Nesse projeto eu comecei a implementar os seguintes conceitos:
 
 Para visualização do projeto, pode-se conferir no link do GitHub Pages: https://lgbarros.github.io/contador-caracteres/
 
-##Legenda
+## Legenda
 
 Caracteres: O contador identifica como um caracter sempre que houver o uso de alguma tecla do seu teclado. Exemplo: Enter, Space, Tab e etc;
 
@@ -31,7 +31,7 @@ In this project I started to implement the following concepts:
 
 To view the project, you can check the GitHub Pages link: https://lgbarros.github.io/contador-caracteres/
 
-##Subtitle
+## Subtitle
 
 Characters: The counter is identified as a character whenever a key on your keyboard is used. Example: Enter, Space, Tab and etc;
 
